@@ -44,3 +44,12 @@ bundle.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120415-2
++ Revision: 813548
+- Update to latest release.
+- Import texlive-fundus-cyr
+- Import texlive-fundus-cyr
+
