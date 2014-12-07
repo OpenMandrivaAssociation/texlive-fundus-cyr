@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-fundus-cyr
 Version:	20120415
-Release:	8
+Release:	9
 Summary:	Support for Washington University Cyrillic fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fundus/cyr/cyr.sty
