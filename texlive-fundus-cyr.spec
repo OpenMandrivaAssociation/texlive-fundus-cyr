@@ -1,6 +1,6 @@
 Name:		texlive-fundus-cyr
 Version:	26019
-Release:	1
+Release:	2
 Summary:	Support for Washington University Cyrillic fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fundus/cyr/cyr.sty
