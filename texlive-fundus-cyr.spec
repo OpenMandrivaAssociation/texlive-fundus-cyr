@@ -3,7 +3,7 @@ Version:	26019
 Release:	2
 Summary:	Support for Washington University Cyrillic fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fundus/cyr/cyr.sty
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fundus/cyr/cyr.sty
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fundus-cyr.r%{version}.tar.xz
 BuildArch:	noarch
